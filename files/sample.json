@@ -1,0 +1,24 @@
+{
+  "Segments": [
+    {
+      "OffsetInSeconds": 1.5,
+      "DurationInSeconds": 2.37
+    },
+    {      
+      "OffsetInSeconds": 5.34,
+      "DurationInSeconds": 7.27
+    },
+    {
+      "OffsetInSeconds": 14.26,
+      "DurationInSeconds": 9.86
+    },
+    {
+      "OffsetInSeconds": 25.8,
+      "DurationInSeconds": 7.38
+    },
+    {
+      "OffsetInSeconds": 34.46,
+      "DurationInSeconds": 5.8
+    }
+  ]
+}
