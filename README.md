@@ -1,5 +1,5 @@
 # split-wav-custom-segments
-Split a wav file into custom segments
+Split a wav file into custom segments usin nAudio.
 
 This sample comes with two files to test with:
 
